@@ -1,0 +1,7 @@
+Release Notes
+
+[V1.6.7]
+Date:   10/17/2024
+enhancement:
+  1. Support AT dialing
+fix:
